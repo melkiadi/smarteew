@@ -10,7 +10,8 @@ Welcome to smartEEW's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-
+   tutorial   # Nama file tanpa ekstensi
+   existing_page
 
 Indices and tables
 ==================
